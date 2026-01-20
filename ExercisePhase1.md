@@ -51,7 +51,7 @@ By completing Phase 1, you will learn to:
 
 ---
 
-### **STEP 1: REPRODUCE THE ISSUE** (10 minutes)
+### **STEP 1: REPRODUCE THE ISSUE** 
 
 #### 1.1 Start the Application
 
@@ -124,7 +124,7 @@ Add initial observations:
 
 ---
 
-### **STEP 2: BUILD KNOWLEDGE REPOSITORY** (20 minutes)
+### **STEP 2: BUILD KNOWLEDGE REPOSITORY** 
 
 #### 2.1 Aggregate Existing Documentation
 
@@ -440,7 +440,7 @@ Update `docs/investigation/issue-analysis.md`:
 
 ---
 
-### **STEP 4: IDENTIFY MISSING REQUIREMENTS** (15 minutes)
+### **STEP 4: IDENTIFY MISSING REQUIREMENTS** 
 
 #### 4.1 Use Copilot to Identify Gaps
 
@@ -516,8 +516,7 @@ Structure as a formal requirements document.
 
 ---
 
-### **STEP 5: ENRICH REQUIREMENTS WITH AI** (20 minutes)
-
+### **STEP 5: ENRICH REQUIREMENTS WITH AI** 
 #### 5.1 Generate Comprehensive Requirements
 
 **Prompt 8: Enrich Product Feature Requirements**
@@ -605,7 +604,7 @@ Format as a professional Feature Requirements Document (FRD).
 
 ---
 
-### **STEP 6: CONFIGURE GITHUB MCP** (15 minutes)
+### **STEP 6: CONFIGURE GITHUB MCP**
 
 Before creating the GitHub Issue, you need to activate and configure GitHub MCP (Model Context Protocol) in VS Code.
 
@@ -824,7 +823,7 @@ No open issues found in this repository.
 
 ---
 
-### **STEP 7: PREPARE & CREATE GITHUB ISSUE** (20 minutes)
+### **STEP 7: PREPARE & CREATE GITHUB ISSUE** 
 
 Now that you've completed the analysis and GitHub MCP is configured, it's time to prepare a comprehensive GitHub Issue that consolidates all your findings and create it programmatically.
 
