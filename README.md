@@ -4,7 +4,11 @@ Welcome to the **AI-SDLC Brownfield Workshop**! This hands-on workshop teaches y
 
 ## 🎯 Quick Start
 
-👉 **New to this workshop?** Read the [**WORKSHOP_SUMMARY.md**](./WORKSHOP_SUMMARY.md) for a comprehensive overview of everything covered.
+**New to this workshop?** Choose your documentation style:
+
+- 📖 **[WORKSHOP_SUMMARY.md](./WORKSHOP_SUMMARY.md)** - Comprehensive detailed overview (recommended for first read)
+- ⚡ **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - Visual at-a-glance guide (quick lookup)
+- 📚 **This README** - Navigation hub and getting started
 
 ## 📚 Workshop Exercises
 
